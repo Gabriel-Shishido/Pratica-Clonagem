@@ -1,2 +1,2 @@
-# Pratica-Clonagem
-Praticando clonagem de repositório
+# Pratica-Git
+Praticando git/github
